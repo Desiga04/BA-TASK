@@ -1,4 +1,4 @@
-# BA-TASK
+
 # BA Task 3 - Tableau Dashboard
 
 ## Dashboard Title
@@ -138,3 +138,27 @@ Recommended dataset: Superstore Sales Dataset
 Dataset type: Business / Retail
 https://public.tableau.com/authoring/BUSINESSTRENDANALYSIS/Dashboard1#1
 
+Week 10 Task: Business Analysis using Heat Map in Tableau
+Objective:
+Analyze business performance across different categories using a Heat Map and identify high-performing and low-performing areas.
+
+Problem Statement:
+Choose any business-related dataset from Kaggle that contains at least two categorical variables and one numerical measure, such as Sales, Revenue, Profit, Orders, Quantity, or Customers. Use Tableau Public to create a Heat Map and identify patterns across different business categories.
+
+Tasks:
+
+1. Download a suitable business dataset from Kaggle and import it into Tableau Public.
+2. Identify two categorical fields and one numerical business measure.
+3. Create a Heat Map using the selected fields.
+4. Use color intensity to represent the numerical measure.
+5. Create at least 3 additional visualizations using suitable chart types.
+6. Add at least one interactive filter to the dashboard.
+7. Combine the visualizations into one dashboard.
+8. Analyze the Heat Map and identify:
+   Highest-performing combination
+   Lowest-performing combination
+   Categories with consistently high/low values
+   Any noticeable patterns
+9. Write 5 business insights based on the visualizations.
+10. Provide 2 business recommendations based on your findings.
+https://public.tableau.com/authoring/BUSINESSPERFORMANCEANALYSIS/Dashboard1#1
