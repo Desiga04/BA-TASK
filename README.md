@@ -124,3 +124,17 @@ The Supermarket Sales dataset was imported into Tableau Public. The **Date** fie
 An **Area Chart** was created to analyze the monthly sales trend. Three additional visualizations were also created to understand sales performance across different business dimensions.
 #Dashboard Link
 https://public.tableau.com/app/profile/desiga.r/viz/Supermarketanalysis_17884167916840/Dashboard1#1
+Business Trend Analysis Using Line Graph in Tableau TASK9
+1. Objective
+
+The objective of this project is to analyze changes in business performance over time using a Line Graph in Tableau Public. The analysis helps identify increasing and decreasing trends, highest and lowest periods, and sudden changes in business performance.
+
+2. Dataset Selection
+
+A suitable business dataset can be downloaded from Kaggle.
+
+Recommended dataset: Superstore Sales Dataset
+
+Dataset type: Business / Retail
+https://public.tableau.com/authoring/BUSINESSTRENDANALYSIS/Dashboard1#1
+
