@@ -162,3 +162,59 @@ Tasks:
 9. Write 5 business insights based on the visualizations.
 10. Provide 2 business recommendations based on your findings.
 https://public.tableau.com/authoring/BUSINESSPERFORMANCEANALYSIS/Dashboard1#1
+
+Week 11 - Business Analysis using Bubble Chart in Tableau
+Objective
+
+To analyze and compare different business categories using a Bubble Chart and identify the categories that have a significant impact on business performance.
+
+Bubble Chart Analysis
+
+Sub-Category is used as the category.
+
+Sales represents the size of each bubble.
+
+Profit represents the colour of each bubble.
+
+The Bubble Chart makes it easy to compare sales and profitability across different product sub-categories.
+
+
+Additional Visualizations
+
+Sales by Category – Bar Chart
+
+Sales Over Time – Line Chart
+
+Profit by Sub-Category – Bar Chart
+
+Region is used as an interactive filter.
+
+
+Business Insights
+
+Different sub-categories contribute differently to overall sales.
+
+Larger bubbles represent sub-categories with higher sales.
+
+The colour of the bubbles helps identify differences in profitability.
+
+Sales performance varies across different regions.
+
+Some sub-categories may have high sales but comparatively lower profit, showing the importance of analysing both sales and profitability.
+
+
+Business Recommendations
+
+Focus on high-sales and high-profit sub-categories to maintain strong business performance.
+
+Review pricing, discounts and costs for high-sales but low-profit sub-categories to improve profitability.
+
+
+Conclusion
+
+The Tableau dashboard provides a clear visual analysis of business performance using a Bubble Chart and supporting charts. It helps compare sales and profit across different sub-categories and regions, making it easier to identify important business patterns and support data-driven decision-making.
+
+Tableau Public Dashboard
+
+Dashboard Link:
+https://public.tableau.com/authoring/BusinessAnalysisUsingBubbleChart/Dashboard1#3
